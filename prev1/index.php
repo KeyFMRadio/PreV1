@@ -80,7 +80,7 @@ if ($allow == false) {
         <div style="color: orange; font-size: 34px; display: inline-table;" class="meettheteam">
           <i class="fas fa-users"></i>
         </div>
-        <div style="color: green; font-size: 34px; display: inline-table;" class="meettheteam">
+        <div style="color: green; font-size: 34px; display: inline-table; padding-left: 5px;" class="news">
           <i class="fas fa-newspaper"></i>
         </div>
       </div>
