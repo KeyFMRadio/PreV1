@@ -77,7 +77,12 @@ if ($allow == false) {
   <div class="row body">
     <div class="col-md-3 col-sm-12 playerContainer">
       <div class="navbuttons">
-        <i class="fas fa-users"></i>
+      <ul>
+        <li><i class="fas fa-users"></i></li>
+        <li></li>
+        <li></li>
+        <li></li>
+      </ul>
       </div>
       <div id="player" class="paused">
         <div id="top" class="paused">
