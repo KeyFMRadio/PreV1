@@ -25,7 +25,7 @@ if ($allow == false) {
 <html lang="en">
 
 <head>
-  <title>KeyFM - Splash</title>
+  <title>KeyFM - Pre V1</title>
   <link rel="shortcut icon" href="assets/images/favicon.svg" />
 
   <!-- Meta Things -->
