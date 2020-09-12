@@ -10,11 +10,7 @@ $stmt2->execute();
   <div class="row">
     <div class="col-md-12 col-xs-12">
       <div class="card bg-none">
-        <div class="row upSoon" id="upSoon">
-            <div style="text-align: left; margin: auto; margin: 46px auto; font-size: 40px;">
-              <i class="fal fa-spinner-third fa-spin"></i>
-            </div>
-        </div>
+        hello
       </div>
     </div>
   </div>
