@@ -144,7 +144,7 @@ if ($allow == false) {
   <script src="assets/js/pnotify.js"></script>
   <script>
     urlRoute
-      .folderUrl('/')
+      .folderUrl('/prev1')
       .setPreviousCode('Key.Home')
       .setBaseUrl('https://didyouknow.ivanisafuckingnonce.gq/')
       .checkCurrent('https://didyouknow.ivanisafuckingnonce.gq/');
