@@ -146,8 +146,8 @@ if ($allow == false) {
     urlRoute
       .folderUrl('/prev1')
       .setPreviousCode('Key.Home')
-      .setBaseUrl('https://didyouknow.ivanisafuckingnonce.gq/')
-      .checkCurrent('https://didyouknow.ivanisafuckingnonce.gq/');
+      .setBaseUrl('https://didyouknow.ivanisafuckingnonce.gq/prev1')
+      .checkCurrent('https://didyouknow.ivanisafuckingnonce.gq/prev1');
   </script>
   <i id="tempHeart" style="display: none;" class="fas fa-heart"></i>
 </body>
