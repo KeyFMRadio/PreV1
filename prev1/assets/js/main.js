@@ -233,7 +233,7 @@ function homepageLoad() {
 }
 
 function updateRecentlyPlayed() {
-  if (urlRoute.currentUrl == "https://didyouknow.ivanisafuckingnonce.gq/_pages_/Key/Home.php?Key") {
+  if (urlRoute.currentUrl == "https://didyouknow.ivanisafuckingnonce.gq/prev1/_pages_/Key/Home.php?Key") {
     let recent = $("#recent");
     if (recent.hasClass('loading')) {
       recent.html(`
@@ -302,7 +302,7 @@ function updateRecentlyPlayed() {
 }
 
 function updateDiscord() {
-  if (urlRoute.currentUrl == "https://didyouknow.ivanisafuckingnonce.gq/_pages_/Key/Home.php?Key") {
+  if (urlRoute.currentUrl == "https://didyouknow.ivanisafuckingnonce.gq/prev1/_pages_/Key/Home.php?Key") {
     $.ajax({
         type: 'GET',
         url: 'https://discordapp.com/api/guilds/704843392911409184/widget.json'
@@ -315,7 +315,7 @@ function updateDiscord() {
 }
 
 function nowNextLater() {
-  if (urlRoute.currentUrl == "https://didyouknow.ivanisafuckingnonce.gq/_pages_/Key/Home.php?Key") {
+  if (urlRoute.currentUrl == "https://didyouknow.ivanisafuckingnonce.gq/prev1/_pages_/Key/Home.php?Key") {
     $.ajax({
         type: 'GET',
         url: 'https://api.keyfm.net/upnext'
