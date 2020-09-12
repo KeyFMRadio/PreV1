@@ -76,13 +76,10 @@ if ($allow == false) {
 <body>
   <div class="row body">
     <div class="col-md-3 col-sm-12 playerContainer">
-      <div class="navbuttons">
-      <ul>
-        <li><i class="fas fa-users"></i></li>
-        <li></li>
-        <li></li>
-        <li></li>
-      </ul>
+      <div style="margin-top: 50px" class="navbuttons">
+        <div class="meettheteam">
+          <i class="fas fa-users"></i>
+        </div>
       </div>
       <div id="player" class="paused">
         <div id="top" class="paused">
