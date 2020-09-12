@@ -144,10 +144,10 @@ if ($allow == false) {
   <script src="assets/js/pnotify.js"></script>
   <script>
     urlRoute
-      .folderUrl('/splash')
+      .folderUrl('/')
       .setPreviousCode('Key.Home')
-      .setBaseUrl('https://keyfm.net/splash')
-      .checkCurrent('https://keyfm.net/splash');
+      .setBaseUrl('https://didyouknow.ivanisafuckingnonce.gq/')
+      .checkCurrent('https://didyouknow.ivanisafuckingnonce.gq/');
   </script>
   <i id="tempHeart" style="display: none;" class="fas fa-heart"></i>
 </body>
