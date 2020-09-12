@@ -76,12 +76,12 @@ if ($allow == false) {
 <body>
   <div class="row body">
     <div class="col-md-3 col-sm-12 playerContainer">
-      <div style="margin-top: 150px" class="navbuttons">
-        <div style="color: orange; font-size: 26px;" class="meettheteam">
+      <div style="margin-top: 200px" class="navbuttons">
+        <div style="color: orange; font-size: 34px;" class="meettheteam">
           <i class="fas fa-users"></i>
         </div>
       </div>
-      <div id="player" class="paused">
+      <div style="margin-top: 30px" id="player" class="paused">
         <div id="top" class="paused">
           <div id="says">
             <div class="stat">
