@@ -83,6 +83,9 @@ if ($allow == false) {
         <div style="color: #3AFF00; font-size: 34px; display: inline-table; padding-left: 5px;" class="news">
           <i class="fas fa-newspaper"></i>
         </div>
+        <div style="color: lightblue; font-size: 34px; display: inline-table; padding-left: 5px;" class="about">
+          <i class="fas fa-search"></i>
+        </div>
       </div>
       <div style="margin-top: 50px" id="player" class="paused">
         <div id="top" class="paused">
