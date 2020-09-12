@@ -77,8 +77,11 @@ if ($allow == false) {
   <div class="row body">
     <div class="col-md-3 col-sm-12 playerContainer">
       <div style="margin-top: 250px" class="navbuttons">
-        <div style="color: orange; font-size: 34px;" class="meettheteam">
+        <div style="color: orange; font-size: 34px; display: inline-table;" class="meettheteam">
           <i class="fas fa-users"></i>
+        </div>
+        <div style="color: green; font-size: 34px; display: inline-table;" class="meettheteam">
+          <i class="fas fa-newspaper"></i>
         </div>
       </div>
       <div style="margin-top: 50px" id="player" class="paused">
