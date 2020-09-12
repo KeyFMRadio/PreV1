@@ -76,8 +76,8 @@ if ($allow == false) {
 <body>
   <div class="row body">
     <div class="col-md-3 col-sm-12 playerContainer">
-      <div style="margin-top: 50px" class="navbuttons">
-        <div class="meettheteam">
+      <div style="margin-top: 150px" class="navbuttons">
+        <div style="color: orange; font-size: 26px;" class="meettheteam">
           <i class="fas fa-users"></i>
         </div>
       </div>
