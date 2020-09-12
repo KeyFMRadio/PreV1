@@ -8,6 +8,13 @@ $stmt2->execute();
 
 <div class="page">
   <div class="row">
+    <div class="col-md-12 col-xs-12">
+      <div class="card bg-none">
+        
+      </div>
+    </div>
+  </div>
+  <div class="row">
     <div class="col-md-5 col-xs-12">
       <div class="card bg-none">
         <div class="row upSoon" id="upSoon">
