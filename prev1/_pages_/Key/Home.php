@@ -18,7 +18,7 @@ $stmt2->execute();
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-md-8">
+			<div class="col-md-7">
 				<div class="card">
 					<div class="slides">
 						<div class="carousel slide" data-ride="carousel" id="homeSlides">
@@ -60,7 +60,7 @@ $stmt2->execute();
 				</div>
 			</div>
 		</div>
-        <div class="col-md-4">
+        <div class="col-md-5">
             <div class="card bg1">
                 <h1 class="card-title">Recently Played</h1>
                 <div class="recentTracks" style="height: 280px; overflow: hidden;">
