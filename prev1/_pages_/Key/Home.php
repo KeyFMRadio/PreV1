@@ -94,6 +94,30 @@ $stmt2->execute();
         </div>
 
         <div class="row">
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="card">
+                            <div class="apply bg4">
+                            <h1>We want you!</h1>
+                            <h2>We accept everyone from the best of the best to people brand new to this community, come give it a shot! We accept everyone on their first shot!</h2>
+                            <a href="Key.Apply" class="web-page"><button class="btn btn-def">Apply</button></a>
+                            </div>
+                    </div>
+                </div>
 
+                <div class="col-md-3">
+                    
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-3">
+                    
+                </div>
+
+                <div class="col-md-3">
+                    
+                </div>
+            </div>
         </div>
 	</div>
