@@ -18,7 +18,7 @@ $stmt2->execute();
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-md-8 col-xs-12">
+			<div class="col-md-8">
 				<div class="card">
 					<div class="slides">
 						<div class="carousel slide" data-ride="carousel" id="homeSlides">
@@ -53,31 +53,14 @@ $stmt2->execute();
 								</div><?php
 								                                }
 								                                }
-								        ?><!--          <div class="carousel-item">
-                    <a href="https://kfm.ooo/smokeyproductions" target="_blank"><img class="d-block w-100" draggable="false" src="https://i.imgur.com/V4c3J9Q.png"></a>
-                    </div>
-                    <div class="carousel-item">
-                    <a href="https://kfm.ooo/global" target="_blank"><img class="d-block w-100" draggable="false" src="https://i.imgur.com/RHYseOl.png"></a>
-                    </div>
-                    <div class="carousel-item">
-                    <a href="https://discord.gg/3VRH6HV" target="_blank"><img class="d-block w-100" draggable="false" src="assets/images/discord.svg"></a>
-                    </div>
-                    <div class="carousel-item">
-                    <a href="https://kfm.ooo/alexa-uk" target="_blank"><img class="d-block w-100" draggable="false" src="assets/images/alexa.png"></a>
-                    </div>
-                    <div class="carousel-item">
-                    <img draggable="false" class="d-block w-100" src="assets/images/social.svg">
-                    </div>
-                    <div class="carousel-item">
-                    <a href="Key.Contact" class="web-page"><img draggable="false" class="d-block w-100" src="assets/images/affiliate.svg"></a>
-                    </div>-->
+								        ?>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-        <div class="col-md-4 col-xs-12">
+        <div class="col-md-4">
             <div class="card bg1">
                 <h1 class="card-title">Recently Played</h1>
                 <div class="recentTracks" style="height: 280px; overflow: hidden;">
