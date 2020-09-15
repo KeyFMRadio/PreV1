@@ -54,12 +54,41 @@ $stmt2->execute();
 								                                }
 								                                }
 								        ?>
+  <!--          <div class="carousel-item">
+              <a href="https://kfm.ooo/smokeyproductions" target="_blank"><img class="d-block w-100" draggable="false" src="https://i.imgur.com/V4c3J9Q.png"></a>
+            </div>
+            <div class="carousel-item">
+              <a href="https://kfm.ooo/global" target="_blank"><img class="d-block w-100" draggable="false" src="https://i.imgur.com/RHYseOl.png"></a>
+            </div>
+            <div class="carousel-item">
+              <a href="https://discord.gg/3VRH6HV" target="_blank"><img class="d-block w-100" draggable="false" src="assets/images/discord.svg"></a>
+            </div>
+            <div class="carousel-item">
+              <a href="https://kfm.ooo/alexa-uk" target="_blank"><img class="d-block w-100" draggable="false" src="assets/images/alexa.png"></a>
+            </div>
+            <div class="carousel-item">
+              <img draggable="false" class="d-block w-100" src="assets/images/social.svg">
+            </div>
+            <div class="carousel-item">
+              <a href="Key.Contact" class="web-page"><img draggable="false" class="d-block w-100" src="assets/images/affiliate.svg"></a>
+            </div>-->
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-		</div>
-        <div class="col-md-5"> 2o2
+
+            <div class="col-md-5">
+                <div class="card bg1">
+                    <h1 class="card-title">Recently Played</h1>
+                    <div class="recentTracks" style="height: 280px; overflow: hidden;">
+                        <ul id="recent" class="loading">
+                            <li style="margin-top: 80px; font-size: 40px;">
+                            <i class="fal fa-spinner-third fa-spin"></i>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
         </div>
 	</div>
