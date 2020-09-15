@@ -93,7 +93,7 @@ $stmt2->execute();
 
         </div>
 
-        <div class="row">
+        <div style="margin-top: -40px;" class="row">
             <div class="row">
                 <div class="col-md-3">
                     <div class="card">
