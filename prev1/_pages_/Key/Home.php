@@ -7,7 +7,7 @@ $stmt2->execute();
 ?>
 	<div class="page">
 		<div class="row">
-			<div class="col-md-5 col-xs-12">
+			<div class="col-md-12 col-xs-12">
 				<div class="card bg-none">
 					<div class="row upSoon" id="upSoon">
 						<div style="text-align: center; margin: auto;margin: 46px auto;font-size: 40px;;">
@@ -77,12 +77,14 @@ $stmt2->execute();
 				</div>
 			</div>
 		</div>
-		<div class="card bg1">
-			<h1 class="card-title">Recently Played</h1>
-			<div class="recentTracks" style="height: 280px; overflow: hidden;">
-				<ul class="loading" id="recent">
-					<li style="margin-top: 80px; font-size: 40px;"><i class="fal fa-spinner-third fa-spin"></i></li>
-				</ul>
-			</div>
-		</div>
+        <div class="col-md-4 col-xs-12">
+            <div class="card bg1">
+                <h1 class="card-title">Recently Played</h1>
+                <div class="recentTracks" style="height: 280px; overflow: hidden;">
+                    <ul class="loading" id="recent">
+                        <li style="margin-top: 80px; font-size: 40px;"><i class="fal fa-spinner-third fa-spin"></i></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
 	</div>
