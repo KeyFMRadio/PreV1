@@ -60,14 +60,6 @@ $stmt2->execute();
 				</div>
 			</div>
 		</div>
-        <div class="col-md-5">
-            <div class="card bg1">
-                <h1 class="card-title">Recently Played</h1>
-                <div class="recentTracks" style="height: 280px; overflow: hidden;">
-                    <ul class="loading" id="recent">
-                        <li style="margin-top: 80px; font-size: 40px;"><i class="fal fa-spinner-third fa-spin"></i></li>
-                    </ul>
-                </div>
-            </div>
+        <div class="col-md-5"> 2o2
         </div>
 	</div>
